@@ -1,0 +1,27 @@
+{
+  "name": "TIL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+	"build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42inshin/TIL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/42inshin/TIL/issues"
+  },
+  "homepage": "https://github.com/42inshin/TIL#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
